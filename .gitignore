@@ -31,3 +31,6 @@
 # Debug files
 *.dSYM/
 *.su
+
+c_compare_string
+Debug/
